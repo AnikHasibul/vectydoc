@@ -8,14 +8,14 @@ Welcome to the unofficial vecty doc
 
 * Getting Started
     * [Installation](#installation)
-    * [Hello world](#vecty-hello-world)
-    * [Vecty components](#vecty-components)
-    * Vecty elements
-    * Vecty properties
-    * Vecty styling
-    * Vecty data attribute
-    * Vecty DOM event
-    * Vecty render and rerender
+    * [Vecty Hello world](#vecty-hello-world)
+    * [Vecty Components](#vecty-components)
+    * [Vecty Elements](#vecty-elements)
+    * Vecty Properties
+    * Vecty Styling
+    * Vecty Data Attribute
+    * Vecty DOM Event
+    * Vecty Render And Rerender
 * Examples
     * WORK IN PROGRESS
 
@@ -202,3 +202,12 @@ type Component interface {
         ... rendering ...
     }
 ```
+
+# Vecty Elements
+
+> Package elem defines markup to create DOM elements.
+Generated from "HTML element reference" by Mozilla Contributors,
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element, licensed under CC-BY-SA 2.5.
+
+Vecty elements are `vecty structure`d html elements. The package `github.com/gopherjs/vecty/elem` provides elements for vecty components.
+
