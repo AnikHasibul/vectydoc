@@ -1,21 +1,6 @@
-> This wiki isn't completed. Link to a wiki will be added after completing each page!
+# [https://loserdev.me/vectydoc](https://anikhasibul.github.io)
+### This documentation should be visited outside of github. Because the relatives links seems broken if it loads inside github README.md view
 
-Welcome to the vecty wiki!
+However, still you can see the doc at [https://github.com/AnikHasibul/vectydoc/blob/master/index.md](https://github.com/AnikHasibul/vectydoc/blob/master/index.md)
 
-Vecty is a [React](https://facebook.github.io/react)-like library for [GopherJS](https://github.com/gopherjs/gopherjs) so that you can do frontend development in Go instead of writing JavaScript/HTML/CSS.
-
-**Before you dive into this, you should know some basic of Golang, Javascript, Html and some frontend knowledge.**
-
-* Getting Started
-    * [Installation](installation)
-    * [Hello world](hello-world)
-    * [Vecty components](vecty-components)
-    * Vecty elements
-    * Vecty properties
-    * Vecty styling
-    * Vecty data attribute
-    * Vecty DOM event
-    * Vecty render and rerender
-* Examples
-    * WORK IN PROGRESS
-
+Also at [https://loserdev.me/vectydoc](https://anikhasibul.github.io) . It serves the same content with github pages. So this is not a fork or different repo.

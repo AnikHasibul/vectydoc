@@ -63,3 +63,5 @@ The `Render` function is where we define the look and feel of our component. The
 
 So far, we haven't written any HTML. All we have done is write our component and pass it to Vecty's `RenderBody` function. This function is special: you **must** pass it a Component that returns an `elem.Body`. Fortunately, our code satisfies
 this.
+
+[Next page (Vecty components)](vecty-components)
